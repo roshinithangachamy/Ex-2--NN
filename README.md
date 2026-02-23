@@ -1,7 +1,7 @@
-#### Name:T.Roshini
-#### Register no:212223230175
-#### Date:
-<H3>Experiment No. 2 </H3>
+## Name:T.Roshini
+## Register no:212223230175
+## Date:
+## Experiment No. 2
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
